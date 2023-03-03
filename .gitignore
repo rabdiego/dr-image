@@ -1,5 +1,11 @@
 # Dataset folder
-dataset
+*.jpg
 
 # DVC
 .dvc
+
+# Scripts
+scripts
+
+# Data analysis
+analysis
